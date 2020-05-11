@@ -1,0 +1,21 @@
+{
+  "nilda": {
+    "Juego": "TA-TE-TI"
+  }
+}{
+  "nilda": {
+    "Juego": "Ahorcado"
+  }
+}{
+  "josefina": {
+    "Juego": "Ahorcado"
+  }
+}{
+  "josefina": {
+    "Juego": "TA-TE-TI"
+  }
+}{
+  "josefina": {
+    "Juego": "Otello"
+  }
+}
